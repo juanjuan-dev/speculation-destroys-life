@@ -20,10 +20,10 @@
     </modules>
 
     <groupId>org.tweed</groupId>
-    <artifactId>spring-cloud-all</artifactId>
+    <artifactId>speculation-destroys-life</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-cloud-all</name>
-    <description>spring-cloud-demo</description>
+    <name>speculation-destroys-life</name>
+    <description>speculation-destroys-life</description>
 
     <repositories>
         <repository>
