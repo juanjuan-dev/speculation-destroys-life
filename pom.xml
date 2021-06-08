@@ -17,6 +17,7 @@
         <module>tweed-common</module>
         <module>tweed-application</module>
         <module>tweed-basic</module>
+        <module>tweed-gateway</module>
     </modules>
 
     <groupId>org.tweed</groupId>
