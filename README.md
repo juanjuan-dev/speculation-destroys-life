@@ -1,4 +1,4 @@
-# SpringCloudDemo
+# speculation-destroys-life
 1. 框架：SpringCloud Greenwich.SR2 + SpringBoot 2.1.7.RELEASE
 2. 版本控制：Jdk1.8 + Maven
 3. 服务治理：Eureka
@@ -8,7 +8,7 @@
 7. 服务调用：Feign
 8. 客户端负载均衡：Ribbon
 9. 熔断流量控制：Hystrix
-
+10. 数据库 mysql 8.0 + redis
 
 ## 一、注册中心地址以及端口号
 1. 9001
